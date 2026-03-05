@@ -53,7 +53,3 @@ Upload this project inside your `codealpha_tasks` repository.
 ## 👨‍💻 Author
 
 Developed as part of CodeAlpha Tasks.
-
----
-
-⭐ If you like this project, consider giving it a star!
